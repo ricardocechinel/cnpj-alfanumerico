@@ -37,6 +37,9 @@ Cálculo baseado em:
 
 Toda a lógica segue os documentos oficiais do SERPRO.
 
+[Documentação Oficial da Receita Federal — CNPJ Alfanumérico](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/cnpj-alfanumerico)
+
+
 ### 🚀 Uso
 ✔ 1. Validar um CNPJ alfanumérico
 
