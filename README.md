@@ -41,6 +41,8 @@ Toda a lógica segue os documentos oficiais do SERPRO.
 ✔ 1. Validar um CNPJ alfanumérico
 
 ```php
+<?php
+require __DIR__ . '/vendor/autoload.php';
 use RicardoCechinel\CnpjAlfanumerico\CnpjAlfa;
 
 $cnpj = "12ABC34501DE35";
@@ -54,6 +56,8 @@ if (CnpjAlfa::validar($cnpj)) {
 ### ✔ 2. Gerar os dígitos verificadores (DV)
 
 ```php
+<?php
+require __DIR__ . '/vendor/autoload.php';
 use RicardoCechinel\CnpjAlfanumerico\CnpjAlfa;
 
 $base = "12ABC34501DE"; // 12 caracteres
@@ -65,6 +69,8 @@ echo $dv; // Exemplo: "35"
 ### ✔ 3. Gerar um CNPJ alfanumérico completo e válido
 
 ```php
+<?php
+require __DIR__ . '/vendor/autoload.php';
 use RicardoCechinel\CnpjAlfanumerico\CnpjAlfa;
 
 $novo = CnpjAlfa::gerarCnpj();
