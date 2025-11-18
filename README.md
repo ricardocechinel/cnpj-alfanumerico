@@ -44,8 +44,8 @@ Toda a lógica segue os documentos oficiais do SERPRO.
 
 
 
-### 🚀 Uso
-✔ 1. Validar um CNPJ alfanumérico
+## 🚀 Uso
+### ✔ 1. Validar um CNPJ alfanumérico
 
 ```php
 <?php
