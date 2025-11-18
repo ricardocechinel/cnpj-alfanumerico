@@ -1,7 +1,7 @@
 <?php   
 require __DIR__ . '/vendor/autoload.php';
 
-use Cechinel\CnpjAlfanumerico\CnpjAlfa;
+use RicardoCechinel\CnpjAlfanumerico\CnpjAlfa;
 
 $cnpj = "12ABC34501DE35";
 
