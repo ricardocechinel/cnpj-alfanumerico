@@ -1,6 +1,6 @@
 <?php
 
-namespace Cechinel\CnpjAlfanumerico;
+namespace RicardoCechinel\CnpjAlfanumerico;
 
 class CnpjAlfa
 {
