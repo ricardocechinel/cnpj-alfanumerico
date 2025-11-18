@@ -2,6 +2,6 @@
 
 require __DIR__ . '/vendor/autoload.php';
 
-use Cechinel\CnpjAlfanumerico\CnpjAlfa;
+use RicardoCechinel\CnpjAlfanumerico\CnpjAlfa;
 
 echo CnpjAlfa::gerarCnpj();
