@@ -37,7 +37,11 @@ Cálculo baseado em:
 
 Toda a lógica segue os documentos oficiais do SERPRO.
 
-[Documentação Oficial da Receita Federal — CNPJ Alfanumérico](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/cnpj-alfanumerico)
+## 📚 Referências Oficiais
+
+- [Receita Federal — Programa CNPJ Alfanumérico](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/cnpj-alfanumerico)
+- [SERPRO — Cálculo dos Dígitos Verificadores do CNPJ Alfanumérico](https://www.serpro.gov.br)
+
 
 
 ### 🚀 Uso
