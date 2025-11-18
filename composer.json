@@ -1,0 +1,33 @@
+{
+  "name": "ricardocechinel/cnpj-alfanumerico",
+  "description": "Biblioteca PHP para validar, gerar dígitos verificadores e criar CNPJ alfanumérico válido conforme as regras oficiais do SERPRO e RFB.",
+  "keywords": [
+    "cnpj",
+    "cnpj alfanumerico",
+    "digito verificador",
+    "modulo 11",
+    "serpro",
+    "validator",
+    "generator",
+    "php"
+  ],
+  "homepage": "https://github.com/ricardocechinel/cnpj-alfanumerico",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ricardo Cechinel"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "RicardoCechinel\\CnpjAlfanumerico\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.0"
+  }
+}
